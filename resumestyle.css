@@ -1,6 +1,6 @@
 
 body { 
-		font-family: Helvetica;
+		font-family: Cambria;
 		font-size: 12px;
 		background-color: #C0C0C0;	
 }
@@ -34,7 +34,14 @@ h2{
 	margin-right: 20%;
 }
 
-img.image {
+img.image1 {
+	order:1;
+	max-height: 350px;
+	max-width: 600px;
+	align-items: center;
+}
+img.image2 {
+	order: 2;
 	max-height: 350px;
 	max-width: 600px;
 	align-items: center;
@@ -49,4 +56,16 @@ h1{
 	text-align: center;
 	font-size: 18px;
 	font-style: italic;
+}
+
+.biography{
+	margin-left: 30%;
+	margin-right: 30%;
+}
+.container{
+	display: flex;
+}
+
+.link{
+	order:3;
 }
