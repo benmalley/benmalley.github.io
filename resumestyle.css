@@ -37,6 +37,7 @@ h2{
 img.image {
 	max-height: 30%;
 	max-width: 30%;
+	align-items: center;
 }
 
 p{
