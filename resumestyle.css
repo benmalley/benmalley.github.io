@@ -2,7 +2,7 @@
 body { 
 		font-family: Helvetica;
 		font-size: 12px;
-		background-color: orange;	
+		background-color: #C0C0C0;	
 }
 
 
@@ -11,21 +11,21 @@ body {
 		text-decoration: underline;
 		text-decoration-color: blue;
 		font-size: 18px;
-		background-color: purple;
+		background-color: #FF8300;
 
 }
 
 .jobrole {
 		font-style: italic;
 		font-size: 14px;
-		background-color: red;
+		background-color: #FFFF00;
 
 }
 
 .skillheader {
 		font-style: italic;
 		font-size: 14px;
-		background-color: yellow;
+		background-color: #0000FF;
 }
 h2{
 	text-align: center;
